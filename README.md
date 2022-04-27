@@ -15,4 +15,11 @@ Mathematically, it can be expressed as
  
  
 
+Architecture of Merkle Tree :
 
+![image](https://user-images.githubusercontent.com/104450923/165587310-de1785c8-eda6-4c9c-8976-911b9e812767.png)
+
+Merkle Tree Implementation in Java :
+ 
+
+In this example implementation, We are going to implement a binary merkle tree. As the first step, let's define the node. Like a regular tree, it has a  data field to store the hash and left and right pointers to point to the left  child and right child of the binary tree. 
